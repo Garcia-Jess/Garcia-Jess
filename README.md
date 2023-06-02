@@ -26,46 +26,4 @@
 
 
 
-<style>
-   .button {
-  color: #ffffff;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  font-size: 16px;
-  cursor: pointer;
-  position: relative;
-  overflow: hidden;
-}
-
-.button::before {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background: linear-gradient(45deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0) 100%);
-  opacity: 0;
-  transform: rotate(45deg) translate(-50%, -50%);
-  animation: shining 2s infinite;
-}
-
-@keyframes shining {
-  0% {
-    opacity: 0;
-    transform: rotate(45deg) translate(-50%, -50%);
-  }
-  50% {
-    opacity: 1;
-    transform: rotate(45deg) translate(-50%, -50%) scale(2);
-  }
-  100% {
-    opacity: 0;
-    transform: rotate(45deg) translate(-50%, -50%);
-  }
-}
-
-</style>
-
           
