@@ -1,4 +1,4 @@
-### Hello World, I´m Jess 👧🏾
+## Hello World, I´m Jess 👧🏾
 
 
 
@@ -21,3 +21,9 @@
 ## LATEST PROJECTS
 - [Power BI projects](https://github.com/Garcia-Jess/Power-BI-projects)
 - [Excel projects]()
+
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Power BI" height="50" width="100" src="https://media.giphy.com/media/VJeQrlJLcDsxnknlTP/giphy.gif" />
+   
+</div><br/>
