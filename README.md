@@ -16,4 +16,8 @@
     <img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
+</div><br/>
+
+## LATEST PROJECTS
+- [Power BI projects](https://github.com/Garcia-Jess/Power-BI-projects)
+- [Excel projects]()
