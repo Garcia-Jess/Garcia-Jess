@@ -22,6 +22,6 @@
 
 ## LATEST PROJECTS
 - [Power BI projects](https://github.com/Garcia-Jess/Power-BI-projects)
-- [Excel projects]()
+- [Excel projects](https://github.com/Garcia-Jess/EXCEL-PROJECTS)
 
 
