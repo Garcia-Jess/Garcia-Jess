@@ -1,4 +1,4 @@
-## Hello World, I´m Jess 👧🏾
+### Hello World, I´m Jess 👧🏾
 
 
 
@@ -11,11 +11,13 @@
 
 ### Technologies I use in my projects
 <div style="display: inline_block"><br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <button class="button" style="background-color:GoldenRod;">Power BI</button>
+    <button class="button" style="background-color:orange;">HTML5</button>
+    <button class="button" style="background-color:blue;">CSS3</button>
+    <button class="button" style="background-color:RoyalBlue;">VSCODE</button>
+    <button class="button" style="background-color:ForestGreen;">EXCEL</button>
+    <button class="button" style="background-color:Violet;">FIGMA</button>
+   
 </div><br/>
 
 ## LATEST PROJECTS
@@ -23,7 +25,47 @@
 - [Excel projects]()
 
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Power BI" height="50" width="100" src="https://media.giphy.com/media/VJeQrlJLcDsxnknlTP/giphy.gif" />
-   
-</div><br/>
+
+<style>
+   .button {
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.button::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(45deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0) 100%);
+  opacity: 0;
+  transform: rotate(45deg) translate(-50%, -50%);
+  animation: shining 2s infinite;
+}
+
+@keyframes shining {
+  0% {
+    opacity: 0;
+    transform: rotate(45deg) translate(-50%, -50%);
+  }
+  50% {
+    opacity: 1;
+    transform: rotate(45deg) translate(-50%, -50%) scale(2);
+  }
+  100% {
+    opacity: 0;
+    transform: rotate(45deg) translate(-50%, -50%);
+  }
+}
+
+</style>
+
+          
