@@ -14,6 +14,7 @@
 
 ### Technologies I use in my projects
 
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
@@ -25,9 +26,12 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 </div>
 
+
 ### Nice Websites I used to create this profile:
+
 https://github.com/marwin1991/profile-technology-icons
 https://getemoji.com/
+
 
 ## LATEST PROJECTS
 - [Power BI projects](https://github.com/Garcia-Jess/Power-BI-projects)
