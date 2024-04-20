@@ -13,7 +13,7 @@ As a lifelong learner, I'm constantly seeking new challenges and opportunities f
 
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Technologies I use in my projects
 <div style="display: inline_block"><br/>
