@@ -28,9 +28,11 @@
 
 
 ### Nice Websites I used to create this profile:
-
+<div align="center">
 https://github.com/marwin1991/profile-technology-icons
 https://getemoji.com/
+</div>
+
 
 
 ## LATEST PROJECTS
