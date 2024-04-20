@@ -29,8 +29,10 @@
 
 ### Nice Websites I used to create this profile:
 <div align="center">
-https://github.com/marwin1991/profile-technology-icons
-https://getemoji.com/
+	<code>https://github.com/marwin1991/profile-technology-icons</code>
+	<code>https://getemoji.com/</code>
+
+
 </div>
 
 
