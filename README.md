@@ -8,9 +8,9 @@ Beyond the realms of coding, I find joy in UI design, crafting visually appealin
 
 As a lifelong learner, I'm constantly seeking new challenges and opportunities for growth. I firmly believe that combining my expertise in teaching with my burgeoning skills in programming opens up endless possibilities for innovation and collaboration.
 
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jessgarcia9/projects)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jéssica-garcia-b41854170)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](webdev.jess.garcia@gmail.com)
+
+/*[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jéssica-garcia-b41854170)*/
+
 
 
 
