@@ -17,6 +17,7 @@ As a lifelong learner, I'm constantly seeking new challenges and opportunities f
 
 ### Technologies I use in my projects
 <div style="display: inline_block"><br/>
+    [![GitHub release](https://img.shields.io/github/release/saagie/technologies?style=for-the-badge)][releases]
     <button class="button" style="background-color:GoldenRod;">Power BI</button>
     <button class="button" style="background-color:orange;">HTML5</button>
     <button class="button" style="background-color:blue;">CSS3</button>
