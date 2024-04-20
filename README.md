@@ -12,19 +12,12 @@ As a lifelong learner, I'm constantly seeking new challenges and opportunities f
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jéssica-garcia-b41854170)
 
 
-
+### Technologies I use in my projects
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda)](https://skillicons.dev)
 
-### Technologies I use in my projects
-<div style="display: inline_block"><br/>
-    <button class="button" style="background-color:GoldenRod;">POWER BI</button>
-    <button class="button" style="background-color:orange;">HTML5</button>
-    <button class="button" style="background-color:blue;">CSS3</button>
-    <button class="button" style="background-color:RoyalBlue;">VSCODE</button>
-    <button class="button" style="background-color:ForestGreen;">PYTHON</button>
-    <button class="button" style="background-color:Violet;">NLTK</button>
-   
-</div><br/>
+
+
+
 
 ## LATEST PROJECTS
 - [Power BI projects](https://github.com/Garcia-Jess/Power-BI-projects)
