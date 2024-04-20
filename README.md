@@ -13,7 +13,7 @@ As a lifelong learner, I'm constantly seeking new challenges and opportunities f
 
 
 ### Technologies I use in my projects
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,figma,notion,py,vscode,windows)](https://skillicons.dev)
 
 
 
