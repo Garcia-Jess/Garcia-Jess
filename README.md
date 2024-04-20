@@ -41,7 +41,7 @@ import</span>jessica
 
 
 ## LATEST PROJECTS
-- [Power BI projects](https://github.com/Garcia-Jess/Power-BI-projects)
+- [Edgar Allan Poe's "The Raven" Analysis Using Python](https://github.com/Garcia-Jess/The_Raven_Analysis_Python.git)
 
 
 
