@@ -1,19 +1,18 @@
 ## Hello World, I´m Jess 👧🏾
 
-I'm a Brazilian French teacher with a deep passion for both programming and linguistics. Over the past five years, I've had the privilege of sharing my knowledge and love for languages with my students, while simultaneously diving into the fascinating world of technology.
+👩🏾‍🏫 I'm a Brazilian French teacher with a deep passion for both programming and linguistics. Over the past five years, I've had the privilege of sharing my knowledge and love for languages with my students, while simultaneously diving into the fascinating world of technology.
 
-My journey into programming has been an enriching one, driven by my curiosity and eagerness to learn. I have been delving into statistics, Python, and various libraries like NLTK, Pandas, NumPy, and Matplotlib. Exploring the realms of Natural Language Processing (NLP) has been particularly captivating for me, as it allows me to blend my interests in language and technology seamlessly.
+👩🏾‍💻 My journey into programming has been an enriching one, driven by my curiosity and eagerness to learn. I have been delving into statistics, Python, and various libraries like NLTK, Pandas, NumPy, and Matplotlib. Exploring the realms of Natural Language Processing (NLP) has been particularly captivating for me, as it allows me to blend my interests in language and technology seamlessly.
 
-Beyond the realms of coding, I find joy in UI design, crafting visually appealing interfaces that enhance user experiences. Whether it's creating intuitive navigation or perfecting color schemes, I relish the opportunity to bring creativity and functionality together.
+🤹🏾‍♂️ Beyond the realms of coding, I find joy in UI design, crafting visually appealing interfaces that enhance user experiences. Whether it's creating intuitive navigation or perfecting color schemes, I relish the opportunity to bring creativity and functionality together.
 
-As a lifelong learner, I'm constantly seeking new challenges and opportunities for growth. I firmly believe that combining my expertise in teaching with my burgeoning skills in programming opens up endless possibilities for innovation and collaboration.
+🎲 As a lifelong learner, I'm constantly seeking new challenges and opportunities for growth. I firmly believe that combining my expertise in teaching with my burgeoning skills in programming opens up endless possibilities for innovation and collaboration.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jéssica-garcia-b41854170)
 
 
 ### Technologies I use in my projects
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,figma,notion,py,vscode,windows)](https://skillicons.dev)
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
@@ -26,7 +25,9 @@ As a lifelong learner, I'm constantly seeking new challenges and opportunities f
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 </div>
 
-
+### Nice Websites I used to create this profile:
+https://github.com/marwin1991/profile-technology-icons
+https://getemoji.com/
 
 ## LATEST PROJECTS
 - [Power BI projects](https://github.com/Garcia-Jess/Power-BI-projects)
