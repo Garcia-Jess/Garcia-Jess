@@ -9,7 +9,7 @@ Beyond the realms of coding, I find joy in UI design, crafting visually appealin
 As a lifelong learner, I'm constantly seeking new challenges and opportunities for growth. I firmly believe that combining my expertise in teaching with my burgeoning skills in programming opens up endless possibilities for innovation and collaboration.
 
 
-/*[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jéssica-garcia-b41854170)*/
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jéssica-garcia-b41854170)
 
 
 
@@ -17,13 +17,12 @@ As a lifelong learner, I'm constantly seeking new challenges and opportunities f
 
 ### Technologies I use in my projects
 <div style="display: inline_block"><br/>
-    [![GitHub release](https://img.shields.io/github/release/saagie/technologies?style=for-the-badge)][releases]
-    <button class="button" style="background-color:GoldenRod;">Power BI</button>
+    <button class="button" style="background-color:GoldenRod;">POWER BI</button>
     <button class="button" style="background-color:orange;">HTML5</button>
     <button class="button" style="background-color:blue;">CSS3</button>
     <button class="button" style="background-color:RoyalBlue;">VSCODE</button>
-    <button class="button" style="background-color:ForestGreen;">EXCEL</button>
-    <button class="button" style="background-color:Violet;">FIGMA</button>
+    <button class="button" style="background-color:ForestGreen;">PYTHON</button>
+    <button class="button" style="background-color:Violet;">NLTK</button>
    
 </div><br/>
 
