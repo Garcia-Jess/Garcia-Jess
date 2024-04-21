@@ -1,5 +1,6 @@
-## import Jessica as Jessie 👧🏾
+## import jessica as jessie 👧🏾
 
+# Hello
 
 👩🏾‍🏫 I'm a Brazilian French teacher with a deep passion for both programming and linguistics. Over the past five years, I've had the privilege of sharing my knowledge and love for languages with my students, while simultaneously diving into the fascinating world of technology.
 
