@@ -2,13 +2,15 @@
 
 # Hello
 
-👩🏾‍🏫 I'm a Brazilian French teacher with a deep passion for both programming and linguistics. Over the past five years, I've had the privilege of sharing my knowledge and love for languages with my students, while simultaneously diving into the fascinating world of technology.
+👩🏾‍💻 French Teacher and Front-End Developer with a passion for building websites that look great and are easy to use. I focus on creating clean and responsive web apps using React, Tailwind CSS, JavaScript, HTML, and CSS.
 
-👩🏾‍💻 My journey into programming has been an enriching one, driven by my curiosity and eagerness to learn. I have been delving into statistics, Python, and various libraries like NLTK, Pandas, NumPy, and Matplotlib. Exploring the realms of Natural Language Processing (NLP) has been particularly captivating for me, as it allows me to blend my interests in language and technology seamlessly.
+🌍 Coming from a background as a French teacher in Brazil, I bring creativity and problem-solving from teaching into web development.
 
-🤹🏾‍♂️ Beyond the realms of coding, I find joy in UI design, crafting visually appealing interfaces that enhance user experiences. Whether it's creating intuitive navigation or perfecting color schemes, I relish the opportunity to bring creativity and functionality together.
+🎨 I enjoy designing in Figma to create simple, good-looking interfaces. I love making sure that everything works smoothly, whether on a phone or computer, and that the design is clear and easy to navigate.
 
-🎲 As a lifelong learner, I'm constantly seeking new challenges and opportunities for growth. I firmly believe that combining my expertise in teaching with my burgeoning skills in programming opens up endless possibilities for innovation and collaboration.
+💻 I’ve also got some knowledge of Node.js, Express, and MongoDB, which helps me understand how the back-end works when building full applications.
+
+🤹🏾‍♂️ Always learning and open to new challenges, I’m excited to continue growing and using my skills in real projects, combining tech with design in a fun and creative way!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jéssica-garcia-b41854170)
@@ -24,7 +26,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="MSSQL" title="MSSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 </div>
 
