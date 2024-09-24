@@ -39,6 +39,12 @@
 </div>
 
 
+## LATEST PROJECTS
+- [JavaScript Practice Challenges](https://github.com/Garcia-Jess/JavaScript-Problems.git)
+- [Edgar Allan Poe's "The Raven" Analysis Using Python](https://github.com/Garcia-Jess/The_Raven_Analysis_Python.git)
+- [Lotto Random Number Generator With React and Tailwind](https://github.com/Garcia-Jess/Lucky-Lotto-Picker.git)
+
+
 ### Nice Websites I used to create this profile:
 <div align="center">
 	<code>https://github.com/marwin1991/profile-technology-icons</code>
@@ -49,9 +55,8 @@
 
 
 
-## LATEST PROJECTS
-- [Edgar Allan Poe's "The Raven" Analysis Using Python](https://github.com/Garcia-Jess/The_Raven_Analysis_Python.git)
-- [Lotto Random Number Generator With React and Tailwind](https://github.com/Garcia-Jess/Lucky-Lotto-Picker.git)
+
+
 
 
 
