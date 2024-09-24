@@ -51,6 +51,7 @@
 
 ## LATEST PROJECTS
 - [Edgar Allan Poe's "The Raven" Analysis Using Python](https://github.com/Garcia-Jess/The_Raven_Analysis_Python.git)
+- [Lotto Random Number Generator With React and Tailwind](https://github.com/Garcia-Jess/Lucky-Lotto-Picker.git)
 
 
 
